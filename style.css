@@ -1,0 +1,19 @@
+*{
+    margin: 0px;
+
+}
+.main{
+  width: 100%;
+  margin:1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+.upload{
+    width:35%;
+}
+.chatbox{
+    width:40%;
+}
+.recent_searches{
+    width:35%;
+}
